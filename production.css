@@ -1,0 +1,18 @@
+body{
+  background-color: #CCEEFF;
+  font-family:'Montserrat', sans-serif;
+}
+h1{
+  text-align: center;
+}
+.closing{
+  width: 5%;
+}
+.aya{
+  height: 20%;
+  width:30%;
+}
+.friends{
+  margin-right: 0;
+  width: 30%;
+}
