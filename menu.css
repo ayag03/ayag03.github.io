@@ -1,0 +1,23 @@
+body{
+  background-color: #CCEEFF;
+  font-family:'Montserrat', sans-serif;
+}
+.menu{
+  display: block;
+  position:absolute;
+  text-align: center;
+  top:50px;
+  bottom: 50px;
+  right: 200px;
+  left: 200px;
+  background-color: #FFC5BF;
+  color: black;
+  padding: 200px;
+  font-size: 30px;
+
+
+
+}
+.closing{
+  width: 5%;
+}

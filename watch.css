@@ -1,0 +1,20 @@
+body{
+  background-color: #CCEEFF;
+  font-family:'Montserrat', sans-serif;
+}
+.closing{
+  width: 5%;
+}
+.video{
+  display: block;
+  text-align: center;
+  top:20px;
+  bottom: 20px;
+  right: 100px;
+  left: 100px;
+  background-color: #FFC5BF;
+
+}
+h1{
+  text-align: center;
+}
