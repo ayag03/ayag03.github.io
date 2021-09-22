@@ -1,2 +1,9 @@
 # ayag03.github.io
 My 30MFF festival
+Project Name: Into the Sun
+
+Project Description: The project is about first time experience of traveling away from home and special tender feelings of adulting experience. The concept of the project strives to describe the content of the film, where viewers move from blue clouds to yellow sunshines of desert, which resembles a voyage into the sun. That is why, the theme of the project was built around soft blue and yellow colors and goal is to bring back those warm memories of hectic traveling before 2020 pandemic as well as experience of the growing up.
+
+Process: To implement that concept I chose to put central image of clouds and block of text which gets users' attention and helps them to watch the film right away. Then, interactive navigation bar was added, so viewers can find interacting information about the film. In the synopsis page, photo carousel was used to give a little parts of the film from beginning till the end destination, so costumers could understand the plot even by the photo slideshow. All of these and other features of my website helped me to tell the story of my film and give desired feelings of happiness of something new coming in the life.
+
+Reflection/Evaluation: The process of building the website turned out to be much more difficult, but still very very interesting and creative for me. I could not implement advanced interactive features like flying plane icon which follows the mouse, but still was happy like a child whenever my interactive features started working. Nevertheless, the goal of creating minimalist website which functions well was met and it gave me a lot of motivation to explore the world of web-design further, learn to do much more interactive website features and improve my design skills even more.
