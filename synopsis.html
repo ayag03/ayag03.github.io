@@ -2,21 +2,25 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title> Home Page </title>
+    <title> Synopsis </title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="synopsis.css">
   </head>
   <body>
+    <!-- Close icon -->
     <div class="close">
       <a href="index.html">
       <img src="Images/closeyellow.jpeg" alt="close" class="closing">
       </a>
     </div>
-    <h1>Synopsis of the film</h1>
-    <p>The film "Into the Sun" shows the traveling all the way from Almaty, Kazakhstan to Abu-Dhabi,UAE. The plot starts from flying in blue clouds and ends in sunny yellow desert. That transition resembles flying into the sun a lot. Viewers can get the happy feeling of voyage after a long time of lockdowning because of 2020 circumstances. </p>
-
+    <!-- Short description of the film-->
+    <div class="synopsis">
+      <h1>Synopsis of the film</h1>
+      <p>The film "Into the Sun" shows the traveling all the way from Almaty, Kazakhstan to Abu-Dhabi,UAE. The plot starts from flying in blue clouds and ends in sunny yellow desert. That transition resembles flying into the sun a lot. Viewers can get the happy feeling of voyage after a long time of lockdowning because of 2020 circumstances. </p>
+    </div>
+<!-- Photo carousel of film's sneak peaks-->
     <div class="slideshow-container">
     <div class="mySlides fade">
       <div class="numbertext">1 / 3</div>
@@ -47,7 +51,7 @@
       <span class="dot" onclick="currentSlide(2)"></span>
       <span class="dot" onclick="currentSlide(3)"></span>
     </div>
-
+<!-- Javascript for the slideshow-->
     <script>
     var slideIndex = 1;
     showSlides(slideIndex);

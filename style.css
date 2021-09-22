@@ -60,8 +60,8 @@ body{
 .text-block {
   position:absolute;
   text-align: center;
-  bottom: 130px;
-  right: 370px;
+  bottom: 170px;
+  right: 540px;
   background-color: #FFFFB5;
   color: black;
   padding-left: 20px;
@@ -73,4 +73,19 @@ body{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+h2{
+  text-align: center;
+}
+.facts{
+  font-size: 28px;
+  text-align: center;
+  background-color: #FFFFB5;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.iactiveImg{
+  width: 50%;
+  height: 50%;
 }

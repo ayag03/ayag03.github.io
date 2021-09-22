@@ -8,6 +8,13 @@ h1{
 .closing{
   width: 5%;
 }
+.synopsis{
+  text-align: center;
+  background-color: #FFFFB5;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
